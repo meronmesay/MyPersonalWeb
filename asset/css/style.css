@@ -27,18 +27,9 @@ img {
     border-left: 1px solid gray;
     height: 450px;
     position: absolute;
-    left: 25%;
+    left: 24%;
     margin-left: 2px;
     top: 10;
-}
-.col {
-    width: 180px;
-    float: left;
-}
-
-.col-md-0{
-    width: 860px;
-    float: right;
 }
 #b {
     background-color: lightgrey;
