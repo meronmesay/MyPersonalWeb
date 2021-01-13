@@ -5,7 +5,7 @@ a {
     text-decoration: none;
     color: blue;
 }
-#container {
+.container {
     background-color: white;
     width: 1070px;
     margin-left: auto;
@@ -27,7 +27,7 @@ img {
     border-left: 1px solid gray;
     height: 450px;
     position: absolute;
-    left: 24.5%;
+    left: 25%;
     margin-left: 2px;
     top: 10;
 }
