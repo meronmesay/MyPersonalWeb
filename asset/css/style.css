@@ -7,10 +7,10 @@ a {
 }
 .container {
     background-color: white;
-    width: 1070px;
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
+    margin-top: 50px;
 }
 .content{
     padding: 10px;
@@ -20,10 +20,7 @@ a {
     padding: 10px;
     border-bottom: 1px solid gray;
 }
-img {
-    border-bottom:0.5px solid gray;
-}
-.t {
+#t {
     border-left: 1px solid gray;
     height: 450px;
     position: absolute;
@@ -31,15 +28,26 @@ img {
     margin-left: 2px;
     top: 10;
 }
-#b {
+b{
     background-color: lightgrey;
 }
-#footer {
+footer {
     clear: both;
     padding: 5px;
     background-color: gray;
     color: blue;
     
+}
+.c{
+    color: white;
+}
+#cat{
+border-right:1px solid gray;
+}
+
+#cat div {
+    border-top: 0.5px solid gray;
+    border-bottom: 0.5px solid gray;
 }
 /*form*/
 .btn-info {
