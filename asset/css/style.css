@@ -20,14 +20,6 @@ a {
     padding: 10px;
     border-bottom: 1px solid gray;
 }
-#t {
-    border-left: 1px solid gray;
-    height: 450px;
-    position: absolute;
-    left: 24%;
-    margin-left: 2px;
-    top: 10;
-}
 #b{
     background-color: lightgrey;
 }
